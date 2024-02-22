@@ -1,0 +1,135 @@
+[
+  {
+    "name": "John Doe",
+    "phone": "082229427878",
+    "address": "123 Main Street, Cityville",
+    "type": "Mobile",
+    "email": "john.doe@mail.com"
+  },
+  {
+    "name": "Jane Smith",
+    "phone": "0822294290",
+    "type": "Work",
+    "email": "jane.smith@mail.com",
+    "address": "456 Oak Avenue, Townsville"
+  },
+  {
+    "name": "Nancy Johnson",
+    "phone": "0822294286",
+    "type": "Home",
+    "email": "nancy.johnson@mail.com",
+    "address": "789 Pine Lane, Villagetown"
+  },
+  {
+    "name": "Alex Turner",
+    "phone": "082229400001",
+    "type": "Main",
+    "email": "alex.turner@mail.com",
+    "address": "101 Elm Street, Hamletville"
+  },
+  {
+    "name": "Emily Brown",
+    "phone": "082229400002",
+    "type": "Work Fax",
+    "email": "emily.brown@mail.com",
+    "address": "202 Cedar Road, Cityburg"
+  },
+  {
+    "name": "David Miller",
+    "phone": "082229400003",
+    "type": "Mobile",
+    "email": "david.miller@mail.com",
+    "address": "303 Maple Avenue, Townington"
+  },
+  {
+    "name": "Sophie White",
+    "phone": "082229400004",
+    "type": "Home",
+    "email": "sophie.white@mail.com",
+    "address": "404 Birch Boulevard, Villageville"
+  },
+  {
+    "name": "Oliver Davis",
+    "phone": "082229400005",
+    "type": "Work",
+    "email": "oliver.davis@mail.com",
+    "address": "505 Oak Street, Townsville"
+  },
+  {
+    "name": "Emma Wilson",
+    "phone": "082229400006",
+    "type": "Main",
+    "email": "emma.wilson@mail.com",
+    "address": "606 Pine Lane, Citytown"
+  },
+  {
+    "name": "Ethan Moore",
+    "phone": "082229400007",
+    "type": "Mobile",
+    "email": "ethan.moore@mail.com",
+    "address": "707 Elm Road, Villagetown"
+  },
+  {
+    "name": "Isabella Hall",
+    "phone": "082229400008",
+    "type": "Work",
+    "email": "isabella.hall@mail.com",
+    "address": "808 Cedar Avenue, Hamletville"
+  },
+  {
+    "name": "Aiden Taylor",
+    "phone": "082229400009",
+    "type": "Home",
+    "email": "aiden.taylor@mail.com",
+    "address": "909 Maple Street, Cityburg"
+  },
+  {
+    "name": "Grace Turner",
+    "phone": "082229400010",
+    "type": "Mobile",
+    "email": "grace.turner@mail.com",
+    "address": "010 Birch Lane, Townington"
+  },
+  {
+    "name": "Lucas Brown",
+    "phone": "082229400011",
+    "type": "Work Fax",
+    "email": "lucas.brown@mail.com",
+    "address": "111 Oak Road, Villageville"
+  },
+  {
+    "name": "Mia Smith",
+    "phone": "082229400012",
+    "type": "Main",
+    "email": "mia.smith@mail.com",
+    "address": "212 Pine Boulevard, Cityville"
+  },
+  {
+    "name": "Noah Johnson",
+    "phone": "082229400013",
+    "type": "Mobile",
+    "email": "noah.johnson@mail.com",
+    "address": "313 Elm Avenue, Townsville"
+  },
+  {
+    "name": "Ava Turner",
+    "phone": "082229400014",
+    "type": "Home",
+    "email": "ava.turner@mail.com",
+    "address": "414 Cedar Street, Villagetown"
+  },
+  {
+    "name": "Liam Davis",
+    "phone": "082229400015",
+    "type": "Work",
+    "email": "liam.davis@mail.com",
+    "address": "515 Maple Road, Hamletville"
+  },
+  {
+    "name": "Sophia White",
+    "phone": "082229400016",
+    "type": "Main",
+    "email": "sophia.white@mail.com",
+    "address": "616 Birch Lane, Cityburg"
+  }
+]
