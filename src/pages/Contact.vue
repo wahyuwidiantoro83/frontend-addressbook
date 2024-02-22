@@ -2,6 +2,7 @@
 import { onMounted, ref, watchEffect } from "vue";
 import DefaultImage from "../assets/default-profile.jpg";
 import API_CALL from "../helper/API";
+import { AVATAR_URL } from "../helper/constant";
 
 // defineProps({
 //   msg: String,
@@ -295,11 +296,7 @@ watchEffect(() => {
                 <span style="display: flex; gap: 4px; align-items: center">
                   <img
                     style="width: 30px; aspect-ratio: 1/1; object-fit: cover; border-radius: 100%"
-                    :src="`${
-                      contact.images
-                        ? `http://localhost:8000/storage/avatar/${contact.images}`
-                        : DefaultImage
-                    }`"
+                    :src="`${contact.images ? `${AVATAR_URL}/${contact.images}` : DefaultImage}`"
                     :alt="contact.images"
                   />{{ contact.name }}
                 </span>
