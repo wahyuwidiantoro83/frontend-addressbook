@@ -223,7 +223,10 @@ watchEffect(() => {
             "
           />
         </div>
-        <button @click="handleSubmit">Submit</button>
+        <div style="display: flex; gap: 1rem">
+          <button style="background-color: red" @click="resetValues">Cancel</button>
+          <button style="background-color: yellowgreen" @click="handleSubmit">Submit</button>
+        </div>
       </div>
       <div class="table-container">
         <div class="form-group" style="color: whitesmoke; margin-bottom: 1rem">
